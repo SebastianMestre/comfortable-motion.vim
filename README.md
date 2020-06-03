@@ -1,3 +1,5 @@
+# NOTE: this README is from the original repo. It is not representative of the modifications done in this fork.
+
 # comfortable-motion.vim
 
 Brings physics-based smooth scrolling to the Vim/Neovim world!
